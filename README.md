@@ -1,9 +1,6 @@
 # tetris playing RL model
 
-A bot that plays
-
-
-
+A bot that plays tetris
 
 ## Requirements
 ```shell
